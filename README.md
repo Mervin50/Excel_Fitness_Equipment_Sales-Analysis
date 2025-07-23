@@ -1,8 +1,10 @@
 # Excel_Fitness_Equipment_Sales-Analysis
 
+
 # Sheet1: Raw Data
    
 <img width="623" height="608" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/0cd628a0-4bb1-4071-a11b-19d17dcbe1c8" />
+
 
 # Sheet2: Supplier_Brand_Category_Map
 
@@ -26,17 +28,10 @@ Insights:
 2) Steel Power and Titan Training do not overlap on Treadmill → opportunity to expand.
 
 
+
 # Sheet3: YOY_Profit_Growth_Trend
 
 <img width="772" height="273" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/cdf07c24-cb1b-489c-b353-4fa6fee7601c" />
-
-Steps: 
-
-1) Started with monthly profit data.
-
-2) Calculated YOY % change for each Brand by comparing each year’s total profit to the previous year.
-
-3) Summarized results in a pivot table to easily see year-over-year growth trends by Supplier and Brand.
 
 Insights: 
 
@@ -49,6 +44,7 @@ Insights:
 4) Spartan Sports is the most stable brand, with small, steady changes.
 
 5) Overall, trends highlight which brands need tighter management and where growth is more reliable.
+   
 
 # Sheet4: Brand_Profit_Share_By_Year
 
@@ -69,6 +65,7 @@ Insights:
 
 5️)  Summit Strength hovers near 20% with small shifts — relatively balanced but slightly inconsistent.
 
+
 # Sheet5: Profit_Summary
 
 <img width="748" height="498" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/b262fa02-c953-4bf4-8d11-c64ede841f7f" />
@@ -84,6 +81,7 @@ Insights:
 4) Titan Fitness Supply’s profit is more spread out but highest for Spartan Sports Treadmill (£156,089).
 
 5) Overall, Rowing Machines and Treadmills generate the top MAT profits, highlighting where to focus growth and marketing.
+   
 
 # Sheet6: Calculated_Profit
 
