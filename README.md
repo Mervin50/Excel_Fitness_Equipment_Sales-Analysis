@@ -58,15 +58,15 @@ Insights:
 
 Insights: 
 
-1. Apex Athletics maintains a steady profit share around 19–20% with slight fluctuations.
+ 1. Apex Athletics maintains a steady profit share around 19–20% with slight fluctuations.
 
-2️. Hercules Gear starts strong but trends down to ~18% by 2024, showing slight erosion.
+ 2️. Hercules Gear starts strong but trends down to ~18% by 2024, showing slight erosion.
 
-3️.  Spartan Sports shows consistent growth, rising from 19% to 21%+ by 2024 — a positive trend.
+ 3️.  Spartan Sports shows consistent growth, rising from 19% to 21%+ by 2024 — a positive trend.
 
-4️.  Steel Power holds steady near 20% but peaks above 21% in 2022 — stable performer.
+ 4️.  Steel Power holds steady near 20% but peaks above 21% in 2022 — stable performer.
 
-5️.  Summit Strength hovers near 20% with small shifts — relatively balanced but slightly inconsistent.
+ 5️.  Summit Strength hovers near 20% with small shifts — relatively balanced but slightly inconsistent.
 
 
 # Sheet5: Profit_Summary
