@@ -13,6 +13,7 @@
 <img width="542" height="406" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/5545740f-41cf-47c6-bb26-52ba13199e85" />
 
 Insights: 
+
 ✔️ Rowing Machine
 
 1. Heavily represented by Iron Strength and Peak Performance Gear (via Elevate).
