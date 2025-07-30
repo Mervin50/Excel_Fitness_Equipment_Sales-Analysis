@@ -1,6 +1,6 @@
 # Excel_Fitness_Equipment_Sales-Analysis
 
-![cartoon-of-happy-boys-in-the-gym-vector-39035624](https://github.com/user-attachments/assets/835d0226-f8b4-4a1f-b2f5-403abcb3e91e)
+<img width="1127" height="826" alt="image" src="https://github.com/user-attachments/assets/a3f709ef-ed52-4c97-af95-53325b814dc5" />
 
 
 # Sheet1: Raw Data
