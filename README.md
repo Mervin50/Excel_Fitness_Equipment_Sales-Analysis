@@ -55,7 +55,6 @@ Insights:
 
 <img width="1297" height="583" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/b1531dfa-1ba1-472e-9393-878209a31020" />
 
-
 Insights: 
 
  1. Apex Athletics maintains a steady profit share around 19–20% with slight fluctuations.
